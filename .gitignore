@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+tensorflow_env/
+tensorflow_envven/
+.vscode/
+.vs/
+
+# Generated models and local training output
+*.h5
+*.keras
+*.pkl
+*.joblib
+scaler.npy
+outputs/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
